@@ -1,6 +1,7 @@
 import React from "react";
 import Board from "./broad.component.jsx";
-import './all.css'
+
+import './styles.css'
 
 class Game extends React.Component {
     constructor(props) {
